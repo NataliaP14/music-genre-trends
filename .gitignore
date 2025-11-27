@@ -1,2 +1,4 @@
 data/raw/song_lyrics.csv
 data/raw/billboard.csv
+data/raw/spotify.csv
+data/raw/songs_compressed.csv
