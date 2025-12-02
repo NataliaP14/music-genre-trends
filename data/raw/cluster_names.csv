@@ -1,0 +1,34 @@
+Alternative_cluster_1: Upbeat Alternative
+Alternative_cluster_2: Speedy Alternative
+Blues_cluster_1: Acoustic Blues
+Blues_cluster_2: Valence Blues
+Country_cluster_1: Loud Country
+Country_cluster_2: Loud Country
+Dance_cluster_1: Disgust Dance
+Dance_cluster_2: Loud Dance
+Disco_cluster_1: Danceable Disco
+Disco_cluster_2: Sad Disco
+Electronic_cluster_1: Danceable Electronic
+Electronic_cluster_2: Loud Electronic
+Folk_cluster_1: Acoustic Folk
+Folk_cluster_2: Acoustic Folk
+Funk_cluster_1: Acoustic Funk
+Funk_cluster_2: Danceable Funk
+Hip Hop_cluster_1: Speechy Hip Hop
+Hip Hop_cluster_2: Danceable Hip Hop
+Jazz_cluster_1: Loud Jazz
+Jazz_cluster_2: Acoustic Jazz
+Metal_cluster_1: Danceable Metal
+Metal_cluster_2: Energetic Metal
+Motown_cluster_1: Joyful Motown
+Motown_cluster_2: Valence Motown
+Pop_cluster_1: Loud Pop
+Pop_cluster_2: Loud Pop
+R&B_cluster_1: Positive R&B
+R&B_cluster_2: Danceable R&B
+Rap_cluster_1: Instrumental Rap
+Rap_cluster_2: Danceable Rap
+Rock_cluster_1: Loud Rock
+Rock_cluster_2: Loud Rock
+Soul_cluster_1: Danceable Soul
+Soul_cluster_2: Danceable Soul
