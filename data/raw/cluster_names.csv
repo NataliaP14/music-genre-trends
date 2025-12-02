@@ -1,34 +1,34 @@
-Alternative_cluster_1: Upbeat Alternative
-Alternative_cluster_2: Speedy Alternative
-Blues_cluster_1: Acoustic Blues
-Blues_cluster_2: Valence Blues
-Country_cluster_1: Loud Country
-Country_cluster_2: Loud Country
-Dance_cluster_1: Disgust Dance
-Dance_cluster_2: Loud Dance
-Disco_cluster_1: Danceable Disco
-Disco_cluster_2: Sad Disco
-Electronic_cluster_1: Danceable Electronic
-Electronic_cluster_2: Loud Electronic
-Folk_cluster_1: Acoustic Folk
-Folk_cluster_2: Acoustic Folk
-Funk_cluster_1: Acoustic Funk
-Funk_cluster_2: Danceable Funk
-Hip Hop_cluster_1: Speechy Hip Hop
-Hip Hop_cluster_2: Danceable Hip Hop
-Jazz_cluster_1: Loud Jazz
-Jazz_cluster_2: Acoustic Jazz
-Metal_cluster_1: Danceable Metal
-Metal_cluster_2: Energetic Metal
-Motown_cluster_1: Joyful Motown
-Motown_cluster_2: Valence Motown
-Pop_cluster_1: Loud Pop
-Pop_cluster_2: Loud Pop
-R&B_cluster_1: Positive R&B
-R&B_cluster_2: Danceable R&B
-Rap_cluster_1: Instrumental Rap
-Rap_cluster_2: Danceable Rap
-Rock_cluster_1: Loud Rock
-Rock_cluster_2: Loud Rock
-Soul_cluster_1: Danceable Soul
-Soul_cluster_2: Danceable Soul
+Alternative_cluster_1: High-Tempo Fearful Alternative
+Alternative_cluster_2: Acoustic Haunting Alternative
+Blues_cluster_1: Acoustic Eerie Blues
+Blues_cluster_2: Upbeat Hopeful Blues
+Country_cluster_1: Loud Optimistic Country
+Country_cluster_2: Booming Shocking Country
+Dance_cluster_1: Powerful Edgy Dance
+Dance_cluster_2: Bold Judgemental Dance
+Disco_cluster_1: Groovy Joyous Disco
+Disco_cluster_2: Bright Fierce Disco
+Electronic_cluster_1: Rhythmic Quirky Electronic
+Electronic_cluster_2: Powerful Foreboding Electronic
+Folk_cluster_1: Organic Suspenseful Folk
+Folk_cluster_2: Wordless Eager Folk
+Funk_cluster_1: Natural Happy Funk
+Funk_cluster_2: Danceable Warm Funk
+Hip Hop_cluster_1: Speechy Smooth Hip Hop
+Hip Hop_cluster_2: Danceable Menacing Hip Hop
+Jazz_cluster_1: Energetic Exciting Jazz
+Jazz_cluster_2: Earthy Jolly Jazz
+Metal_cluster_1: Powerful Spooky Metal
+Metal_cluster_2: Lively Haunting Metal
+Motown_cluster_1: Raw Joyful Motown
+Motown_cluster_2: Optimistic Merry Motown
+Pop_cluster_1: Explosive Playful Pop
+Pop_cluster_2: Vibrant Curious Pop
+R&B_cluster_1: Rhythmic Steady R&B
+R&B_cluster_2: Catchy Cheerful R&B
+Rap_cluster_1: Instrumental Apprehensive Rap
+Rap_cluster_2: Energetic Thrilling Rap
+Rock_cluster_1: Powerful Restless Rock
+Rock_cluster_2: Impactful Ominous Rock
+Soul_cluster_1: Flowy Uplifting Soul
+Soul_cluster_2: Funky Exuberant Soul
